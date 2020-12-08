@@ -29,5 +29,7 @@ Abstract class ya da interface kullanımı zorunlu
 Design Pattern Kullanımları:
 
 Command(Komut) kullanıldı.
+
 Observer(Gözlemci) kullanıldı.
+
 Factory(Fabrika) kullanıldı.
