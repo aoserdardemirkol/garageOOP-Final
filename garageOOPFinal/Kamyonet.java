@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Kamyonet extends Arac {
 

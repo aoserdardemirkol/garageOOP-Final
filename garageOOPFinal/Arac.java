@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public abstract class Arac {
     private int alan;
@@ -36,3 +36,4 @@ public abstract class Arac {
         return "Araç Tipi: " + ad + " - Kapladığı Alan: " + alan + " - Plaka: " + plaka;
     }
 }
+

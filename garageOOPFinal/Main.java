@@ -1,7 +1,6 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 import java.util.Scanner;
-
 import static java.lang.Integer.parseInt;
 
 public class Main {

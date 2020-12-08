@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Islem {
     public static String islemSec(IslemInterface iI, String islem, Garaj grj, int tip, String plaka){
@@ -6,3 +6,4 @@ public class Islem {
         return iI.islemSec(islem, grj, tip, plaka);
     }
 }
+

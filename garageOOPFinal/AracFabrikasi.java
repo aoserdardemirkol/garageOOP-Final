@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class AracFabrikasi {
     public static Arac getArac(int tip, String plaka){
@@ -18,3 +18,4 @@ public class AracFabrikasi {
         return arac;
     }
 }
+

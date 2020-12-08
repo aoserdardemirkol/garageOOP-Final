@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Otobus extends Arac {
 
@@ -6,3 +6,4 @@ public class Otobus extends Arac {
         super(5, "Otobus", plaka);
     }
 }
+

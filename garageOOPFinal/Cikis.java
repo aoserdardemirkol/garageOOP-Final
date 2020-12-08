@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Cikis implements IslemInterface {
 
@@ -30,3 +30,4 @@ public class Cikis implements IslemInterface {
             return ("---------- Garaj boş...");
     }
 }
+

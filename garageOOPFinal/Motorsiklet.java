@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Motorsiklet extends Arac {
 
@@ -6,3 +6,4 @@ public class Motorsiklet extends Arac {
         super(1, "Motorsiklet", plaka);
     }
 }
+

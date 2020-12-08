@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Bisiklet extends Arac {
 
@@ -8,3 +8,4 @@ public class Bisiklet extends Arac {
     }
 
 }
+

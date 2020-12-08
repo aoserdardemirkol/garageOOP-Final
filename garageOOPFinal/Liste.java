@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Liste implements IslemInterface {
 
@@ -10,3 +10,4 @@ public class Liste implements IslemInterface {
         return ("---------- Liste: " + grj.getAracList() + " Yer Durumu: " + grj.getYer());
     }
 }
+

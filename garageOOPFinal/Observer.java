@@ -1,7 +1,8 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public interface Observer {
 
     void update(Observable observable);
 
 }
+

@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Tir extends Arac {
 
@@ -7,3 +7,4 @@ public class Tir extends Arac {
         super(8, "Tir", plaka);
     }
 }
+

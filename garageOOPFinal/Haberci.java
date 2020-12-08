@@ -1,4 +1,4 @@
-package com.garageOOP3;
+package com.garageOOPFinal;
 
 public class Haberci implements Observer {
 
@@ -9,3 +9,4 @@ public class Haberci implements Observer {
         System.out.println("---------- Kalan Alan: " + grj.getYer());
     }
 }
+
